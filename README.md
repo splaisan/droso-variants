@@ -1,8 +1,9 @@
+[(Nucleomics-VIB)](https://github.com/Nucleomics-VIB)
+
 # droso_variants
 set of commands and tutorial for the variant analysis of Illumina paired end reads
 
-[(Nucleomics-VIB)](https://github.com/Nucleomics-VIB)
-## admin-tools 
+## Aim 
 
 ### Content
 
