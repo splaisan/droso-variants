@@ -7,7 +7,7 @@ set of commands and tutorial for the variant analysis of Illumina paired end rea
 
 This GIT makes all code used in this tutorial accessible; you will however need to get the required software and reference data from the web and deploy them on a server in order to be able to reproduce this analysis.
 
-A file is added which lists all requirements and when relevant their source on the web.
+A file '''(requirements.txt)[requirements.txt]''' is added which lists all requirements and when relevant their source on the web.
 
 The versions used here will change in the future and some code might need modifications to remain functional, this is up to you to maintain it.
 
