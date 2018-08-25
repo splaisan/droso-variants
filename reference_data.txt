@@ -1,0 +1,2 @@
+# list of required reference files and their source URL
+# get the files and place them in the indicated folders to which scripts will be pointing
