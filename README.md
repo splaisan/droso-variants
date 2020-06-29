@@ -8,7 +8,7 @@ set of commands and tutorial for the variant analysis of Illumina paired end rea
 This GIT makes all code used in this tutorial accessible; you will however need to get the required software and reference data from the web and deploy them on a server in order to be able to reproduce this analysis.
 
 * The file **[requirements.txt](requirements.txt)** is added which lists all requirements and when relevant their source on the web.
-* The file **[reference_data.txt](reference_data.txt)** will guide through getting and deploying teh genome reference data for this project (URLs and fiel names are as found at the time of writing this document and may change)
+* The file **[reference_data.txt](reference_data.txt)** will guide through getting and deploying the genome reference data for this project (URLs and fiel names are as found at the time of writing this document and may change)
 
 The versions used here will change in the future and some code might need modifications to remain functional, this is up to you to maintain it.
 
