@@ -1,6 +1,6 @@
 [(Nucleomics-VIB)](https://github.com/Nucleomics-VIB)
 
-# droso_variants
+# droso-variants
 set of commands and tutorial for the variant analysis of Illumina paired end reads
 
 ## Aim 
@@ -14,7 +14,7 @@ The versions used here will change in the future and some code might need modifi
 
 ## How to Use This Code?
 
-Each subsequent step of a classical variant analysis are presented in the current git **[Wiki](https://github.com/splaisan/droso_variants/wiki)** page. The code use in each page can be found here but the instructions will be found in the dedicated Wiki section above.
+Each subsequent step of a classical variant analysis are presented in the current git **[Wiki](https://github.com/splaisan/droso-variants/wiki)** page. The code use in each page can be found here but the instructions will be found in the dedicated Wiki section above.
 
 On the top of each script, an editable section needs be tuned in order to define your own environment and point to the input data. Please edit each script carefully before running it and keep backups of your raw data in case you run a fatal overwriting command. 
 
